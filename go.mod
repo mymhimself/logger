@@ -1,4 +1,4 @@
-module github.com/mym-himself/logger
+module github.com/mymhimself/logger
 
 go 1.21.1
 

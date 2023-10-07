@@ -1,10 +1,13 @@
-module github.com/krm-venture/logger
+module github.com/mym-himself/logger
 
-go 1.17
+go 1.21.1
 
 require (
-	github.com/getsentry/sentry-go v0.12.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/getsentry/sentry-go v0.25.0
+	github.com/sirupsen/logrus v1.9.3
 )
 
-require golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
+require (
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
+)

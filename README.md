@@ -1,2 +1,2 @@
 # logger
-logger is a service for logging.
+logger is a customized library for logging.
